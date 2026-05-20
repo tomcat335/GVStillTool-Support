@@ -1,6 +1,6 @@
  # GV Still Tool — Support                                                                                                                                          
                                                                                                                                                                      
-  **GV Still Tool** is a macOS utility for viewing and converting GVG K-Frame (`.eif`) and GVG Kayenne Classic (`.kif`) broadcast still image files.                 
+  **GV Still Tool** is a macOS utility for viewing and converting GVG K-Frame (`.eif`) and GVG Kayenne Classic (`.kif`) broadcast still image files. You can find it here: https://apps.apple.com/us/app/gv-still-tool/id6762881157                 
                                                                                                                                                                      
   ---                                                                                                                                                                
                                                             
